@@ -1,0 +1,2308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"lstn",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"par",
+				"parrafos"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"clas",
+				"clas=〔attribute〕"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"parra",
+				"parrafo3"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"asse",
+				"assets/"
+			],
+			[
+				"links",
+				"links	link - stylesheet"
+			],
+			[
+				"style",
+				"style	Tag"
+			],
+			[
+				"d",
+				"differentiator"
+			],
+			[
+				"s",
+				"stories/"
+			],
+			[
+				"Infor",
+				"Información"
+			],
+			[
+				"abs",
+				"absalonc"
+			],
+			[
+				"share",
+				"shareLinks"
+			],
+			[
+				"cur",
+				"cur-ha	cursor: hand;"
+			],
+			[
+				"cp",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"sale",
+				"on_sale  (variable)"
+			],
+			[
+				"blo",
+				"blockquote"
+			],
+			[
+				"min",
+				"min-width:   (property)"
+			],
+			[
+				"show",
+				"showroom"
+			],
+			[
+				"cover-",
+				"cover-rse.jpg	w:2901 h:806"
+			],
+			[
+				"span",
+				"span	span-columns"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"jca",
+				"jcarouselControl"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"sel",
+				"selector	A basic jQuery selector"
+			],
+			[
+				"pr",
+				"pr	padding-right"
+			],
+			[
+				"fin",
+				"find_many  (function)"
+			],
+			[
+				"news",
+				"news_id"
+			],
+			[
+				"find",
+				"find_one  (function)"
+			],
+			[
+				"new",
+				"news_id"
+			],
+			[
+				"whr",
+				"where_equal  (function)"
+			],
+			[
+				"delete_news",
+				"delete_news_images.php"
+			],
+			[
+				"diff",
+				"differentiator  (variable)"
+			],
+			[
+				"di",
+				"differentiators"
+			],
+			[
+				"_s",
+				"_SESSION  (variable)"
+			],
+			[
+				"wher",
+				"where_equal  (function)"
+			],
+			[
+				"sele",
+				"select  (function)"
+			],
+			[
+				"for_",
+				"for_table  (function)"
+			],
+			[
+				"feature_",
+				"feature_slug"
+			],
+			[
+				"fea",
+				"feature"
+			],
+			[
+				"summa",
+				"summary__list"
+			],
+			[
+				"lis",
+				"lis-n	list-style: none;"
+			],
+			[
+				"echo",
+				"echo	<?= … ?>"
+			],
+			[
+				"on",
+				"on_sale_projects"
+			],
+			[
+				"on_",
+				"on_sale_projects"
+			],
+			[
+				"cate",
+				"category  (variable)"
+			],
+			[
+				"str_re",
+				"str_replace()"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"image",
+				"images  (variable)"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"ca",
+				"category_list"
+			],
+			[
+				"category",
+				"category"
+			],
+			[
+				"vd",
+				"var_dump()"
+			],
+			[
+				"whe",
+				"where_equal  (function)"
+			],
+			[
+				"re",
+				"req1	require_once …"
+			],
+			[
+				"in",
+				"in_categories  (variable)"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"pro",
+				"project  (variable)"
+			],
+			[
+				"con",
+				"config_admin.php"
+			],
+			[
+				"l",
+				"logos_listos/"
+			],
+			[
+				"order",
+				"order_by_asc"
+			],
+			[
+				"manu",
+				"manual  (variable)"
+			],
+			[
+				"count",
+				"count()"
+			],
+			[
+				"buil",
+				"building  (variable)"
+			],
+			[
+				"dele",
+				"delete_category.php"
+			],
+			[
+				"model",
+				"models/"
+			],
+			[
+				"set",
+				"set_expr  (function)"
+			],
+			[
+				"nb",
+				"new_building  (variable)"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"From",
+				"FromName  (variable)"
+			],
+			[
+				"confi",
+				"confighp.php"
+			],
+			[
+				"nombre",
+				"nombre_edificio"
+			],
+			[
+				"nombre_",
+				"nombre_propietario"
+			],
+			[
+				"servicios",
+				"servicios.php"
+			],
+			[
+				"servicio",
+				"servicios.php"
+			],
+			[
+				"symbol",
+				"symbol>  (element)"
+			],
+			[
+				"diferen",
+				"diferenciadores.php"
+			],
+			[
+				"dife",
+				"diferenciadores"
+			],
+			[
+				"mo",
+				"modify_differentiator.php"
+			],
+			[
+				"unlink",
+				"unlink()"
+			],
+			[
+				"cover",
+				"cover_path"
+			],
+			[
+				"add_sa",
+				"add_sales_images.php"
+			],
+			[
+				"if",
+				"if	<?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"arrap",
+				"array_push"
+			],
+			[
+				"f",
+				"for_table  (function)"
+			],
+			[
+				"sho",
+				"showroom"
+			],
+			[
+				"showr",
+				"showrooms"
+			],
+			[
+				"new_s",
+				"new_showroom  (variable)"
+			],
+			[
+				"project",
+				"project_id"
+			],
+			[
+				"ima",
+				"image_6f5d1913"
+			],
+			[
+				"lo",
+				"logos/"
+			],
+			[
+				"tim",
+				"timthumb.php"
+			],
+			[
+				"ucw",
+				"ucwords()"
+			],
+			[
+				"stro",
+				"story  (variable)"
+			],
+			[
+				"str",
+				"str_id"
+			],
+			[
+				"isse",
+				"isset()"
+			],
+			[
+				"name",
+				"name_clean"
+			],
+			[
+				"trim",
+				"trim()"
+			],
+			[
+				"fe",
+				"features_clean"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"G",
+				"_GET  (variable)"
+			],
+			[
+				"unset",
+				"unset()"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"projects",
+				"projectsCategories"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"strtolo",
+				"strtolower()"
+			],
+			[
+				"che",
+				"checkArray"
+			],
+			[
+				"em",
+				"empty()"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"val",
+				"value	Attr"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"vetical",
+				"vertical-align:   (property)"
+			],
+			[
+				"config_",
+				"config_production.php"
+			],
+			[
+				"fc",
+				"first-child  (pseudo-class)"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"inc",
+				"inc	@include"
+			],
+			[
+				"counter-",
+				"counter-increment:   (property)"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cssbootstrap.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "gits",
+		"selected_items":
+		[
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sho",
+				"SFTP: Show Panel"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"showpa",
+				"SFTP: Show Panel"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"showp",
+				"SFTP: Show Panel"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"codekit",
+				"Codekit: Preview in browser select"
+			],
+			[
+				"showpanel",
+				"SFTP: Show Panel"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"formjs",
+				"Format: Javascript"
+			],
+			[
+				"formajs",
+				"Format: Javascript"
+			],
+			[
+				"formaj",
+				"Format: Javascript"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"sftp sho",
+				"SFTP: Show Panel"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"tbas",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"origa",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"codeki",
+				"Codekit: Add project"
+			],
+			[
+				"theme",
+				"Themr: List favorite themes"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"code",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"phpfmt",
+				"phpfmt: refactor"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"bro",
+				"Browse Mode..."
+			],
+			[
+				"brow",
+				"Browse Mode..."
+			],
+			[
+				"setsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"packre",
+				"PackageResourceViewer: View Package Resource"
+			],
+			[
+				"d",
+				"File: Duplicate"
+			],
+			[
+				"fforma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"fomart",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"gitstt",
+				"Git: Status"
+			],
+			[
+				"gistt",
+				"Git: Status"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"emme",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"vi",
+				"PackageResourceViewer: View Package Resource"
+			],
+			[
+				"packare",
+				"PackageResourceViewer: View Package Resource"
+			],
+			[
+				"edit",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"setxml",
+				"Set Syntax: XML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"chan",
+				"ChangeQuotes"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"min",
+				"Minify Javascript"
+			],
+			[
+				"upgrde",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"liverelas",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverelaos",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"sftpd",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"gitss",
+				"Git: Status"
+			],
+			[
+				"sftppanel",
+				"SFTP: Show Panel"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"setjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"edi",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"view",
+				"PackageResourceViewer: View Package Resource"
+			],
+			[
+				"viewpr",
+				"PackageResourceViewer: View Package Resource"
+			],
+			[
+				"viewp",
+				"PackageResourceViewer: View Package Resource"
+			],
+			[
+				"lin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"extra",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"prefe",
+				"Preference Helper: Open *.sublime-settings"
+			],
+			[
+				"them",
+				"Themr: List favorite themes"
+			],
+			[
+				"themr",
+				"Themr: List favorite themes"
+			],
+			[
+				"thmr",
+				"Themr: List favorite themes"
+			],
+			[
+				"edipa",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"editpa",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"viewpa",
+				"PackageResourceViewer: View Package Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"extr",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"openre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"themer",
+				"Themr: List favorite themes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"date",
+				"InsertDate: Default"
+			],
+			[
+				"rev",
+				"RubyEval: ruby_eval"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sch",
+				"Schemr: List all schemes"
+			],
+			[
+				"shcme",
+				"Schemr: List all schemes"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"cus",
+				"Git: Custom Command"
+			],
+			[
+				"gitc",
+				"Git: Custom Command"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"schme",
+				"Schemr: List all schemes"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 327.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"view.settings().get('sublimelinter_executable_map')",
+			"view.settings().get(\"paths\")",
+			"view.settings().get(\"path\")",
+			"view.settings().get(\"sublimelinter_executable_map\")",
+			"view.settings().get('sublimelinter_executable_map')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jCri/Sites/BOOTCAMP G2/S02/C08"
+	],
+	"file_history":
+	[
+		"/Users/jCri/Sites/BOOTCAMP G2/S01/C05/introcss.sublime-project",
+		"/Users/jCri/Sites/BOOTCAMP G2/S01/C05/index.html",
+		"/Users/jCri/Sites/BOOTCAMP G2/S01/C05/assets/css/main.css",
+		"/Users/jCri/Sites/BOOTCAMP G2/S01/C05/.gitignore",
+		"/Users/jCri/Sites/BOOTCAMP G2/S01/C05/assets/css/.keep",
+		"/Users/jCri/Sites/BOOTCAMP G2/S01/C05/assets/js/.keep",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/Minify.sublime-settings",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/js/plugins.min.js",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/Minify/Minify.sublime-settings",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/images/email.svg",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/images/email.min.svg",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_type.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/absalon.sublime-project",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/proyectos.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/.htaccess",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/error_log",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/proyecto.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/js/main.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/form/main.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/css/main.css",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/main.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_primary.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/post-venta.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_primary-ac.scss",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/dired.sublime-settings",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/js/vendor/jquery-1.11.1.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/js/vendor/handlebars.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery/src/css/var/cssExpand.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/mixitup/src/jquery.mixitup.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/validatr/libs/jquery/jquery.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/dist/jquery.jcarousel-autoscroll.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/dist/jquery.jcarousel-control.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/dist/jquery.jcarousel-core.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/dist/jquery.jcarousel-pagination.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/dist/jquery.jcarousel-scrollintoview.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/dist/jquery.jcarousel.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/kwicks/jquery.kwicks.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/kwicks/jquery.kwicks.min.css",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery.visible/jquery.visible.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery-smooth-scroll/jquery.smooth-scroll.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery-form/jquery.form.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery-easing-original/jquery.easing.jquery.json",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery-easing-original/jquery.easing.compatibility.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery/dist/jquery.min.map",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery/dist/jquery.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/libs/jquery/jquery.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/libs/jquery-loader.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jcarousel/dist/jquery.jcarousel.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/fitvids/jquery.fitvids.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/bxslider/plugins/jquery.fitvids.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/bxslider/jquery.bxslider.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/outdated-browser/demo/jquery.html",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/kwicks/jquery.kwicks.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/kwicks/jquery.kwicks.css",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery.visible/jquery.visible.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery-form/jquery.form.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery/src/jquery.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery/dist/jquery.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/fitvids/jquery.fitvids.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/bxslider/jquery.bxslider.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/bxslider/jquery.bxslider.css",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_normalize.scss",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/Absalon",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/index.php",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/index.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/sftp-config.json",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/config_limited.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/scripts/const_admin.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/scripts/const_limited.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/noticias.php",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/models/delete_all_images.php",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/js/admin.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/diferenciador.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/diferenciadores.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/models/update_project.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/proyecto.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/form/more_info.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_grid-settings.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/jquery/src/css/addGetHookIf.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/models/add_image.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_grid-settings-ac.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/scripts/helpers.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_helpers.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/form/min/main.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/js/jquery.swipebox.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/swipebox/src/js/jquery.swipebox-2.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/swipebox/src/js/min/jquery.swipebox-2.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/scripts/usuario.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/login.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/scripts/Navigator.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_form.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/form/process_form.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_type-ac.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/timthumb.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/components/validatr/src/js/format.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/footer.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/faq.php",
+		"/Users/jCri/Desktop/Pendientes.TODO",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/noticia.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/includes/head.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/googlec23e8063fd500974.html",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/servicios.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/libraries/PHPMailer/language/phpmailer.lang-es.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/libraries/PHPMailer/.travis.yml",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/Lemaco",
+		"/Users/jCri/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/La Legion",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/includes/page-close.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/includes/scripts.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/proyectos.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/recomendamos.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/empresa.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/outdatedbrowser/lang/es.html",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/outdatedbrowser/lang/en.html",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/outdatedbrowser/lang/ua.html",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/outdatedbrowser/lang/de.html",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/bower.json",
+		"/Users/jCri/Downloads/share.min.js",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/scripts/confighp.php",
+		"/Users/jCri/Sites/BOILERPLATES/H5BP/index.html",
+		"/Users/jCri/Sites/BOILERPLATES/H5BPAC/index.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/assets/scss/partials/_kwicks.scss",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/admin/libraries/PHPMailer/language/phpmailer.lang-tr.php",
+		"/Users/jCri/Sites/CLIENTES WEB/Absalon/HTML/HTML/sublimelinter.version"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"*.php",
+			"admin/*.php",
+			"*.php",
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images",
+			"class=\"img-responsive thumbnail\"",
+			"cxdb",
+			"#(",
+			"Enviar",
+			"24px",
+			"services-srt__",
+			"encode",
+			"this",
+			"config.networks.pinterest.",
+			"this",
+			"config.networks.twitter.",
+			"this",
+			";\n",
+			"flex",
+			"$background-dark",
+			"logo",
+			"uploaded_logo",
+			"badge",
+			";\n",
+			"portrait",
+			"5",
+			"hover",
+			"control",
+			"flex",
+			"resume",
+			"bx",
+			"project",
+			"Project",
+			"project",
+			"Project",
+			"project",
+			"count()",
+			"->limit(1)",
+			"images",
+			"new_",
+			"0 0 50 50",
+			"settings.hideBarsDelay",
+			"bowser",
+			"browser",
+			"manual",
+			"file",
+			"0 0 25 25",
+			"<path class=\"deadline\" d=\"M25 12v1h-12v12h-1v-12h-12v-1h12v-12h1v12h12z\"/>",
+			"30px",
+			"50px",
+			"prev",
+			"'../config.php'",
+			"'admin/config.php'",
+			"admin",
+			"ADMIN",
+			"on_sale",
+			"black",
+			"schedule",
+			"email",
+			"\\.$",
+			"Edificio de 12 pisos\n5 locales comerciales en primer piso\n7 oficinas por piso\nKitchennette y baños terminados\nOficinas desde 37,22 mts2 hasta 802,06 mts2\nOficinas duplex en último piso\n4 niveles de subterráneos\n84 estacionamientos\n52 Bodegas\nPlantas libres de gran optimización\nEdificio con gran luminosidad\nModerna arquitectura con terminaciones de diseño y vanguardia\nMuros cortina con vidrios de control solar y eficiencia energética\n3 Ascensores por piso de última generación con sistema de optimización de recorrido\nCompleto sistema de CCTV y de control de acceso a subterráneos y oficinas\nSistema de climatización tipo eficiencia energética.\nAltura piso cielo 2,3 mts. Libres",
+			"\\.$",
+			"slug",
+			"year",
+			"slug",
+			"year",
+			"name",
+			"$new_building",
+			"man-file",
+			".pdf'",
+			"name",
+			"sigo",
+			"srt_email",
+			"srt_building",
+			"srt_email",
+			"srt_building",
+			"wmail",
+			"srt-email",
+			"srt-building",
+			"post-venta.php",
+			"correo",
+			"));\n",
+			"nombre",
+			"depto",
+			"propietario",
+			"nombre_prop",
+			"yellow",
+			"hover",
+			".services-form__srt",
+			"color",
+			".srt",
+			"big",
+			"grey",
+			"$grey;",
+			"$grey",
+			"post-venta.php",
+			"venta",
+			"post-venta.php",
+			"description",
+			"icon_large",
+			"icon",
+			"$new_service",
+			"tmp/",
+			"$large_icon",
+			"png",
+			".png",
+			"png",
+			"$temp_icon",
+			"$icon",
+			"description",
+			"add_story",
+			"admin.php?salir=1",
+			"stor",
+			"galeria",
+			"add_multipleimages.php",
+			"update_project",
+			"project",
+			"projects",
+			"modify_projects",
+			"slug",
+			"new_project",
+			"features",
+			"year",
+			"name",
+			"$name",
+			"title",
+			"specs",
+			"name",
+			"$new_project",
+			"new_project ",
+			"$sale",
+			"projectCategory"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'../config_admin.php'",
+			"'admin/config_limited.php'",
+			"signo",
+			"servicios.php",
+			"home.php?salir=1",
+			"add_multiple_images.php",
+			"post-venta.php",
+			"fontsize",
+			"",
+			"grey"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cssbootstrap.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "json",
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Lucario.tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"function_name_status_row": -1,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 692.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 122.0
+	},
+	"output.git-commit":
+	{
+		"height": 128.0
+	},
+	"output.git-init":
+	{
+		"height": 128.0
+	},
+	"output.git-push":
+	{
+		"height": 128.0
+	},
+	"output.phporacleintrospect":
+	{
+		"height": 128.0
+	},
+	"output.settings_documentation_panel":
+	{
+		"height": 122.0
+	},
+	"output.sftp":
+	{
+		"height": 733.0
+	},
+	"pinned_build_system": "",
+	"project": "cssbootstrap.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"assets/css/main.css"
+			],
+			[
+				".svg",
+				"images/email.svg"
+			],
+			[
+				"type",
+				"assets/scss/partials/_type.scss"
+			],
+			[
+				"prim",
+				"assets/scss/partials/_primary.scss"
+			],
+			[
+				"vendor",
+				"assets/js/vendor/jquery-1.11.1.min.js"
+			],
+			[
+				"norm",
+				"assets/scss/partials/_normalize.scss"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"noti",
+				"noticias.php"
+			],
+			[
+				"admin",
+				"assets/js/admin.js"
+			],
+			[
+				"prima",
+				"assets/scss/partials/_primary-ac.scss"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"gird",
+				"assets/scss/partials/_grid-settings.scss"
+			],
+			[
+				"gri",
+				"assets/scss/partials/_grid-settings.scss"
+			],
+			[
+				"form",
+				"assets/scss/partials/_form.scss"
+			],
+			[
+				"help",
+				"admin/scripts/helpers.php"
+			],
+			[
+				"grid",
+				"assets/scss/partials/_grid-settings.scss"
+			],
+			[
+				"ty",
+				"assets/scss/partials/_type-ac.scss"
+			],
+			[
+				"notici",
+				"noticia.php"
+			],
+			[
+				"ser",
+				"servicios.php"
+			],
+			[
+				"empre",
+				"empresa.php"
+			],
+			[
+				"pri",
+				"assets/scss/partials/_primary.scss"
+			],
+			[
+				"typ",
+				"assets/scss/partials/_type.scss"
+			],
+			[
+				"tye",
+				"assets/scss/partials/_type.scss"
+			],
+			[
+				"hel",
+				"admin/scripts/helpers.php"
+			],
+			[
+				"home",
+				"admin/home.php"
+			],
+			[
+				"boi",
+				"assets/scss/partials/_boilerplate.scss"
+			],
+			[
+				"nom",
+				"assets/scss/partials/_normalize.scss"
+			],
+			[
+				"grids",
+				"assets/scss/partials/_grid-settings-ac.scss"
+			],
+			[
+				"pro",
+				"proyectos.php"
+			],
+			[
+				"post",
+				"post-venta.php"
+			],
+			[
+				"po",
+				"post-venta.php"
+			],
+			[
+				"mains",
+				"assets/css/main.css"
+			],
+			[
+				"a",
+				"assets/js/admin.js"
+			],
+			[
+				"iche",
+				"assets/scss/partials/_iCheck.scss"
+			],
+			[
+				"pr",
+				"assets/scss/partials/_primary.scss"
+			],
+			[
+				"ac",
+				"assets/scss/ac.scss"
+			],
+			[
+				"ani",
+				"assets/scss/partials/_animations.scss"
+			],
+			[
+				"animation",
+				"assets/components/jcarousel/test/functional/animation.html"
+			],
+			[
+				"swi",
+				"assets/scss/partials/_swipebox.scss"
+			],
+			[
+				"bx",
+				"assets/scss/partials/_bxslider.scss"
+			],
+			[
+				"helpe",
+				"admin/scripts/helpers.php"
+			],
+			[
+				"indx",
+				"index.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"kwick",
+				"assets/scss/partials/_kwicks.scss"
+			],
+			[
+				"kwi",
+				"assets/scss/partials/_kwicks.scss"
+			],
+			[
+				"fo",
+				"footer.php"
+			],
+			[
+				"ma",
+				"assets/scss/main.scss"
+			],
+			[
+				"bxs",
+				"assets/scss/partials/_bxslider.scss"
+			],
+			[
+				"gr",
+				"assets/scss/partials/_grid-settings.scss"
+			],
+			[
+				"mai",
+				"assets/js/main.js"
+			],
+			[
+				"gris",
+				"assets/scss/partials/_grid-settings-ac.scss"
+			],
+			[
+				"idu",
+				"industrial.php"
+			],
+			[
+				"elimis",
+				"ac/eliminar_st.php"
+			],
+			[
+				"indus",
+				"industrial.php"
+			],
+			[
+				"p",
+				"assets/scss/partials/_primary.scss"
+			],
+			[
+				"rtyp",
+				"assets/scss/partials/_type.scss"
+			],
+			[
+				"mainm",
+				"assets/js/min/main.min.js"
+			],
+			[
+				"contac",
+				"contacto.kit"
+			],
+			[
+				"no",
+				"assets/scss/partials/_normalize.scss"
+			],
+			[
+				"over",
+				"assets/scss/partials/_override.scss"
+			],
+			[
+				"header",
+				"bootic/header.liquid"
+			],
+			[
+				"css",
+				"assets/css/main.css"
+			],
+			[
+				"che",
+				"assets/scss/partials/_icheck.scss"
+			],
+			[
+				"icon",
+				"assets/scss/partials/_icons.scss"
+			],
+			[
+				"plug",
+				"assets/js/plugins.js"
+			],
+			[
+				"min",
+				"assets/css/main.css"
+			],
+			[
+				"esp",
+				"especs.kit"
+			],
+			[
+				"ico",
+				"assets/scss/partials/_icons.scss"
+			],
+			[
+				"sw",
+				"assets/scss/partials/_swipebox.scss"
+			],
+			[
+				"fancy",
+				"assets/scss/partials/_fancybox.scss"
+			],
+			[
+				"pagin",
+				"ac/_scripts/Paginator.php"
+			],
+			[
+				"pagina",
+				"ac/_scripts/Paginator.php"
+			],
+			[
+				"publi",
+				"ac/publicaciones.php"
+			],
+			[
+				"pag",
+				"ac/_scripts/paginator.class.php"
+			],
+			[
+				"pas",
+				"ac/pass_ok.php"
+			],
+			[
+				"pass",
+				"ac/_libs/password.php"
+			],
+			[
+				"cos",
+				"ac/_scripts/costTest.php"
+			],
+			[
+				"u",
+				"ac/_scripts/usuario.php"
+			],
+			[
+				"prive",
+				"assets/scss/neat/functions/_private.scss"
+			],
+			[
+				"confi",
+				"ac/_scripts/config.php"
+			],
+			[
+				"pub",
+				"publicaciones_test.php"
+			],
+			[
+				"s",
+				"css/style.css"
+			],
+			[
+				"scrip",
+				"js/script.js"
+			],
+			[
+				"proc",
+				"form/process_form.php"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"pmo",
+				"pdemontemar.html"
+			],
+			[
+				"noticias",
+				"noticias.html"
+			],
+			[
+				"montem",
+				"pdemontemar.html"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"js",
+				"js/script.js"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"magnere",
+				"magnere.html"
+			],
+			[
+				"contacto",
+				"contacto.html"
+			],
+			[
+				"obrasjs",
+				"js/obras.js"
+			],
+			[
+				"obras",
+				"js/obras.js"
+			],
+			[
+				".js",
+				"js/script.js"
+			],
+			[
+				".css",
+				"css/style.css"
+			],
+			[
+				"notic",
+				"noticias.html"
+			],
+			[
+				"no.cs",
+				"css/no.css"
+			],
+			[
+				"moneda",
+				"moneda.html"
+			],
+			[
+				"script",
+				"js/script.js"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"st",
+				"css/style.css"
+			],
+			[
+				"idex",
+				"index.html"
+			],
+			[
+				"helper",
+				"js/helper.js"
+			],
+			[
+				"",
+				"slider.js"
+			],
+			[
+				"equi",
+				"equipo.html"
+			],
+			[
+				"proyectos",
+				"proyectos.html"
+			],
+			[
+				"grau",
+				"grau.html"
+			],
+			[
+				"medi",
+				"medit.html"
+			],
+			[
+				"gestion",
+				"gestion.html"
+			],
+			[
+				"plane",
+				"planes.html"
+			],
+			[
+				"serv",
+				"servicios.html"
+			],
+			[
+				"quienes",
+				"quienes.html"
+			],
+			[
+				"naciona",
+				"enacional.html"
+			],
+			[
+				"curauma",
+				"curauma.html"
+			],
+			[
+				"clientes",
+				"clientes.html"
+			],
+			[
+				"lah",
+				"lahsen.html"
+			],
+			[
+				"suma",
+				"sumar.html"
+			],
+			[
+				"quilim",
+				"quilin.html"
+			],
+			[
+				"ga",
+				"gaiquique.html"
+			],
+			[
+				"ran",
+				"garancagua.html"
+			],
+			[
+				"vap",
+				"gavalparaiso.html"
+			],
+			[
+				"mont",
+				"gapmontt.html"
+			],
+			[
+				"arica",
+				"gaarica.html"
+			],
+			[
+				"montt",
+				"gapmontt.html"
+			],
+			[
+				"valpa",
+				"gavalparaiso.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "intro",
+		"selected_items":
+		[
+			[
+				"intro",
+				"~/Sites/BOOTCAMP G2/S01/C05/introcss.sublime-project"
+			],
+			[
+				"css",
+				"~/Sites/BOOTCAMP G2/S01/C07/csstransitions.sublime-project"
+			],
+			[
+				"abs",
+				"~/Sites/CLIENTES WEB/Absalon/absalon.sublime-project"
+			],
+			[
+				"absa",
+				"~/Sites/CLIENTES WEB/Absalon/absalon.sublime-project"
+			],
+			[
+				"absalon",
+				"~/Sites/CLIENTES WEB/Absalon/absalon.sublime-project"
+			],
+			[
+				"html",
+				"~/Desktop/S01C03/html.sublime-project"
+			],
+			[
+				"lema",
+				"~/Sites/CLIENTES WEB/Lemaco/lemaco.sublime-project"
+			],
+			[
+				"lem",
+				"~/Sites/CLIENTES WEB/Lemaco/lemaco.sublime-project"
+			],
+			[
+				"lm",
+				"~/Sites/CLIENTES WEB/Lemaco/lemaco.sublime-project"
+			],
+			[
+				"le",
+				"~/Sites/CLIENTES WEB/Lemaco/lemaco.sublime-project"
+			],
+			[
+				"lemaco",
+				"~/Sites/CLIENTES WEB/Lemaco/lemaco.sublime-project"
+			],
+			[
+				"nomad",
+				"~/Sites/CLIENTES WEB/Nomad/nomad.sublime-project"
+			],
+			[
+				"nom",
+				"~/Sites/CLIENTES WEB/Nomad/nomad.sublime-project"
+			],
+			[
+				"noma",
+				"~/Sites/CLIENTES WEB/Nomad/nomad.sublime-project"
+			],
+			[
+				"desa",
+				"~/Sites/BOOTCAMP/Sublime Projects/desafiolatam.sublime-project"
+			],
+			[
+				"",
+				"~/Sites/BOOTCAMP/Sublime Projects/pagoranking.sublime-project"
+			],
+			[
+				"inde",
+				"~/Sites/CLIENTES WEB/Nomad/nomad.sublime-project"
+			],
+			[
+				"model",
+				"~/Sites/CLIENTES WEB/Modelarq/modelarq.sublime-project"
+			],
+			[
+				"leam",
+				"~/Sites/CLIENTES WEB/Lemaco/lemaco.sublime-project"
+			],
+			[
+				"ab",
+				"~/Sites/CLIENTES WEB/Absalon/absalon.sublime-project"
+			],
+			[
+				"mo",
+				"~/Sites/CLIENTES WEB/Modelarq/modelarq.sublime-project"
+			],
+			[
+				"la",
+				"~/Sites/CLIENTES WEB/Modelarq/modelarq.sublime-project"
+			],
+			[
+				"mode",
+				"~/Sites/CLIENTES WEB/Modelarq/modelarq.sublime-project"
+			],
+			[
+				"p3",
+				"~/Sites/CLIENTES WEB/P3Cycles/p3cycles.sublime-project"
+			],
+			[
+				"nomas",
+				"~/Sites/CLIENTES WEB/Nomad/nomad.sublime-project"
+			],
+			[
+				"no",
+				"~/Sites/CLIENTES WEB/Nomad/nomad.sublime-project"
+			],
+			[
+				"n",
+				"~/Sites/CLIENTES WEB/Nomad/nomad.sublime-project"
+			],
+			[
+				"ad",
+				"~/Sites/CLIENTES WEB/Admiral/admiral.sublime-project"
+			],
+			[
+				"admi",
+				"~/Sites/CLIENTES WEB/Admiral/admiral.sublime-project"
+			],
+			[
+				"mt",
+				"~/Sites/CLIENTES WEB/Mauricio Tapia/mt.sublime-project"
+			],
+			[
+				"mauri",
+				"~/Sites/CLIENTES WEB/Mauricio Tapia/mt.sublime-project"
+			],
+			[
+				"moderl",
+				"~/Sites/CLIENTES WEB/Modelarq/modelarq.sublime-project"
+			],
+			[
+				"mob",
+				"~/Sites/CLIENTES WEB/AbsalonMobile/absalonMobile.sublime-project"
+			],
+			[
+				"mobi",
+				"~/Sites/CLIENTES WEB/AbsalonMobile/absalonMobile.sublime-project"
+			],
+			[
+				"p3c",
+				"~/Sites/CLIENTES WEB/P3Cycles/p3cycles.sublime-project"
+			],
+			[
+				"old",
+				"~/Sites/CLIENTES WEB/AbsalonOLD/absalonOLD.sublime-project"
+			],
+			[
+				"modela",
+				"~/Sites/CLIENTES WEB/Modelarq/modelarq.sublime-project"
+			],
+			[
+				"l",
+				"/Users/jCri/Sites/Clientes Web/Lemaco/lemaco.sublime-project"
+			],
+			[
+				"m",
+				"/Users/jCri/Sites/Clientes Web/Mauricio Tapia/mt.sublime-project"
+			],
+			[
+				"dr",
+				"/Users/Juancri/Sites/Clientes Web/DR/dyr.sublime-project"
+			],
+			[
+				"polimo",
+				"/Users/Juancri/Sites/Clientes Web/Polimorfosis/polimorfosis.sublime-project"
+			],
+			[
+				"publi",
+				"/Users/Juancri/Sites/Clientes Web/Absalon/sublimeFiles/publishAbsalon.sublime-project"
+			],
+			[
+				"absalonm",
+				"/Users/Juancri/Sites/Clientes Web/Absalon_Mobile/absalonMobile.sublime-project"
+			],
+			[
+				"lale",
+				"/Users/Juancri/Documents/La Legion/Web/La Legion/La Legion.sublime-project"
+			],
+			[
+				"lal",
+				"/Users/Juancri/Documents/La Legion/Web/La Legion/La Legion.sublime-project"
+			],
+			[
+				"legion",
+				"/Users/Juancri/Documents/La Legion/Web/La Legion/La Legion.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
